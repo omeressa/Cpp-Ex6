@@ -2,10 +2,7 @@
 #include <iostream>
 #include "Condition.h"
 
-
 using namespace std;
-
-
 
 
 Condition::Condition(){
